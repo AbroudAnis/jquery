@@ -1,0 +1,50 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #eeeeee;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: whitesmoke;
+}
+.color_button {
+  background-color: #eeeeee;
+  border: #eeeeee;
+}
+
+.italic{
+  font-style: italic;
+}
+.underline{
+  text-decoration: underline;
+}
+.bold{
+  font-weight: bold;
+}
+
+.align-left{
+  text-align: left;
+}
+.align-right{
+  text-align: right;
+}
+.align-center{
+  text-align: center;
+}
+.justify{
+  text-align: justify;
+}
